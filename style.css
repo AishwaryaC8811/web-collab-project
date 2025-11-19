@@ -1,0 +1,15 @@
+head {
+    
+}
+
+body {
+    background-color: rgb(187, 242, 249);
+    cursor: url("cursor.png"), auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+    line-height: 1.5;
+}
+
+title {
+}
