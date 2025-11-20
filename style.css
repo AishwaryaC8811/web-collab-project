@@ -3,8 +3,8 @@ head {
 }
 
 body {
-    background-color: #FFC6FF;
     cursor: url("cursor.png"), auto;
+    background-color: #FFC6FF;
     zoom: 0.8;
     font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
@@ -17,5 +17,6 @@ body {
 
 ol {
     line-height: 1.5;
-    padding-left: 6%;
+    padding-left: 6.5%;
 }
+
