@@ -3,14 +3,19 @@ head {
 }
 
 body {
-    background-color: rgb(187, 242, 249);
+    background-color: #FFC6FF;
     cursor: url("cursor.png"), auto;
+    zoom: 0.8;
     font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: left;
     font-size: 40px;
     line-height: 1.5;
+    color: #333333;
+    background: linear-gradient(to left, #F9D7E4, #eb84ab);
+    max-width: 50%;
 }
 
-title {
+ol {
+    line-height: 1.5;
+    padding-left: 8%;
 }
-
