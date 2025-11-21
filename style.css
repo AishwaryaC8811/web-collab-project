@@ -3,20 +3,41 @@ head {
 }
 
 body {
-    cursor: url("cursor.png"), auto;
-    background-color: #FFC6FF;
+    cursor: url("cursor.cur"), auto;
     zoom: 0.8;
     font-family: 'Lucida Sans', 'Lucida Sans Regular','Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: left;
+    text-align: center;
     font-size: 40px;
     line-height: 1.5;
-    color: #333333;
+    color: #333;
     background: linear-gradient(to left, #F9D7E4, #eb84ab);
-    max-width: 50%;
 }
 
 ol {
     line-height: 1.5;
-    padding-left: 6.5%;
+}
+
+.img1, .img2, .img3 {
+    max-width: 40%;
+    border-radius: 20px;
+    box-shadow: 20px 25px 20px black;
+}
+
+td {
+    padding-left: 580px;
+}
+
+th {
+    padding-left: 580px;
+}
+
+.ordered-list {
+    list-style-position: inside;
+}
+
+hr {
+    height: 6px;
+    background-color: rgb(177, 236, 177);
+    border: none;
 }
 
