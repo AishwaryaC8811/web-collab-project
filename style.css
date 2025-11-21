@@ -10,7 +10,8 @@ body {
     font-size: 40px;
     line-height: 1.5;
     color: #333;
-    background: linear-gradient(to left, #F9D7E4, #eb84ab);
+    background-image: url(background.jpg);
+    background-repeat: repeat;
 }
 
 ol {
@@ -33,7 +34,7 @@ td, th {
 
 hr {
     height: 6px;
-    background-color: rgb(177, 236, 177);
+    background-color: #333;
     border: none;
 }
 
