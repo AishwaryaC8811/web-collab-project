@@ -23,11 +23,7 @@ ol {
     box-shadow: 20px 25px 20px black;
 }
 
-td {
-    padding-left: 330px;
-}
-
-th {
+td, th {
     padding-left: 330px;
 }
 
