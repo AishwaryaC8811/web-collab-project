@@ -35,8 +35,15 @@ ol {
     margin: 20px auto;
 }
 
+
+table {
+    margin: 0 auto;
+}
+
 td, th {
-    padding-left: 220px;
+    padding: 10px 20px;
+    text-align: center;
+    border: 3px solid black;
 }
 
 .ordered-list {
